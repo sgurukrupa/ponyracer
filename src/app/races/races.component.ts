@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
-import RaceModel from '../models/race.model';
+import { RaceModel } from '../models/race.model';
 import { RaceComponent } from '../race/race.component';
 
 @Component({

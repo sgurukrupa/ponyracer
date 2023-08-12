@@ -1,4 +1,4 @@
-export default interface PonyModel {
+export interface PonyModel {
   id: number;
   name: string;
   color: string;
